@@ -1,0 +1,25 @@
+html,
+body {
+  height: 100%;
+}
+.full {
+  height: 1000px;
+  width: 100%;
+  border: 2px solid red;
+  padding: 10px;
+}
+
+.control input {
+  /* margin-left: -5px; */
+  margin: 0;
+  height: 30px;
+  min-width: 200px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border: 1px solid gray;
+}
+.control label {
+  /* background: red;
+  line-height: 30px;
+  display: inline-block; */
+}
